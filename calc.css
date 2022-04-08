@@ -1,0 +1,18 @@
+#buttons {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+
+#screen {
+  text-align: right;
+}
+
+#ent-window {
+  font-size: 30px;
+  padding: 10px 0;
+}
+
+#op-window {
+  font-size: 20px;
+  height: 25px;
+}
